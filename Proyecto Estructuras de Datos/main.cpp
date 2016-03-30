@@ -62,6 +62,9 @@ struct MiembrosComite{
 
 
 
+
+
+
 // #####   Estructuras que se relacionan con MiembrosComite ##### //
 
 struct Puestos{//Lista simple insercion al inicio
